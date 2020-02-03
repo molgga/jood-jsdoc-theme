@@ -1,6 +1,6 @@
 {
   "name": "@jood/jsdoc-theme",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
