@@ -1,0 +1,14 @@
+{
+  "name": "@jood/jsdoc-theme",
+  "version": "0.1.0",
+  "description": "JSDoc 3 Template / Theme",
+  "main": "publish.js",
+  "scripts": {
+    "packages:deploy": "npm publish . --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molgga/jood-jsdoc-theme.git"
+  },
+  "license": "MIT"
+}
