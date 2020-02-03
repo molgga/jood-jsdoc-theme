@@ -108,6 +108,7 @@ dl.param-type {
 }
 
 .prettyprint code {
+  margin: 0;
   background-color: transparent;
 }
 
