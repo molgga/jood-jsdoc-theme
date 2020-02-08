@@ -18,6 +18,11 @@ $ npm install @jood/jsdoc-theme --save-dev
 }
 ```
 
+## Sample
+
+ - [@jood/common API doc](https://molgga.github.io/jood-common)
+ - [@jood/appearer API doc](https://molgga.github.io/jood-appearer)
+
 ## License
 
 Licensed under the MIT license.

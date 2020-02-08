@@ -1,0 +1,13 @@
+{
+    "opts": {
+      "readme": "example/README.md",
+      "encoding": "utf8",
+      "template": "./"
+    },
+    "source": {
+      "include": ["example/src"],
+      "exclude": ["node_modules"],
+      "includePattern": ".+\\.(j|t)s?$"
+    }
+  }
+    
