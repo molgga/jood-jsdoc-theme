@@ -1,12 +1,20 @@
 {
   "name": "@jood/jsdoc-theme",
-  "version": "0.1.13",
-  "description": "JSDoc 3 Template / Theme",
+  "version": "0.1.14",
+  "description": "JSDoc template / theme",
   "main": "publish.js",
   "scripts": {
     "example:doc": "rm -rf ./example/docs && jsdoc -c ./jsdoc-example.json -r -d ./example/docs",
     "packages:deploy": "npm publish . --access=public"
   },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "document",
+    "template",
+    "theme",
+    "jsdoc"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/molgga/jood-jsdoc-theme.git"
